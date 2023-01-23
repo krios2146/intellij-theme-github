@@ -1,0 +1,20 @@
+{
+  "author": "krios2146",
+  "name": "GitHub Theme",
+  "dark": true,
+  "colors": {
+    "base00": "#0d1117",
+    "base10": "#161b22",
+    "base20": "#30363d",
+    "base30": "#6e7681",
+    "base40": "#8b949e",
+    "base50": "#c9d1d9",
+    "base100": "#ffffff",
+    "faint": "base30",
+    "muted": "base40",
+    "border": "base20"
+  },
+  "ui": {
+
+  }
+}
