@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.krios2146.intellijthemegithub.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.krios2146.intellijthemegithub.MyBundle
 
 class MyApplicationService {
 
