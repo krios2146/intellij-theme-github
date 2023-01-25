@@ -15,7 +15,11 @@
     "muted": "#8b949e",
     "border": "#30363d",
     "borderMuted": "#21262d",
-    "hover": "#21262d"
+    "hover": "#21262d",
+    "greenBtn": "#238636",
+    "greenBtnHover": "#2ea043",
+    "greenBtnBorder": "#2ea043",
+    "greenBtnBorderHover": "#3fb950"
   },
   "ui": {
     "*": {
@@ -33,6 +37,12 @@
       "underlineColor": "#f78166"
     },
     "ActionButton.hoverBorderColor": "hover",
-    "TitlePane.Button.icon": "#f"
+    "RunWidget": {
+      "background": "greenBtn",
+      "foreground": "base100",
+      "hoverBackground": "greenBtnHover",
+      "runningBackground": "greenBtnHover",
+      "pressedBackground": "#196c2e"
+    }
   }
 }
