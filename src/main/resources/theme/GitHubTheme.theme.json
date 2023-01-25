@@ -5,16 +5,34 @@
   "colors": {
     "base00": "#0d1117",
     "base10": "#161b22",
-    "base20": "#30363d",
-    "base30": "#6e7681",
-    "base40": "#8b949e",
-    "base50": "#c9d1d9",
+    "base20": "#21262d",
+    "base30": "#30363d",
+    "base40": "#6e7681",
+    "base50": "#8b949e",
+    "base60": "#c9d1d9",
     "base100": "#ffffff",
-    "faint": "base30",
-    "muted": "base40",
-    "border": "base20"
+    "faint": "#6e7681",
+    "muted": "#8b949e",
+    "border": "#30363d",
+    "borderMuted": "#21262d",
+    "hover": "#21262d"
   },
   "ui": {
-
+    "*": {
+      "background": "base00",
+      "foreground": "base60",
+      "rowHeight": "24",
+      "borderColor": "border",
+      "hoverBackground": "hover"
+    },
+    "Borders.color": "borderMuted",
+    "Tree.border": "4,12,4,12",
+    "EditorTabs": {
+      "tabInsets": "-3,12,-4,8",
+      "underlineHeight": "2",
+      "underlineColor": "#f78166"
+    },
+    "ActionButton.hoverBorderColor": "hover",
+    "TitlePane.Button.icon": "#f"
   }
 }
