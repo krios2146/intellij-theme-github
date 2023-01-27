@@ -11,8 +11,8 @@
     "base50": "#8b949e",
     "base60": "#c9d1d9",
     "base100": "#ffffff",
-    "faint": "#6e7681",
-    "muted": "#8b949e",
+    "faint": "#484f58",
+    "muted": "#6e7681",
     "border": "#30363d",
     "borderMuted": "#21262d",
     "hover": "#21262d",
@@ -26,14 +26,16 @@
       "background": "base00",
       "foreground": "base60",
       "rowHeight": "24",
-      "borderColor": "border"
+      "borderColor": "border",
+      "selectionBackground": "base30",
+      "selectionForeground": "base100",
+      "infoForeground": "muted",
+      "disabledText": "faint"
     },
     "Borders.color": "borderMuted",
     "Tree.border": "4,12,4,12",
     "EditorTabs": {
-      "tabInsets": "-3,12,-4,8",
-      "underlineHeight": "2",
-      "underlineColor": "#f78166"
+      "tabInsets": "-3,12,-4,8"
     },
     "ActionButton" : {
       "hoverBorderColor": "hover",
@@ -73,6 +75,19 @@
         "startBorderColor": "greenBtnBorder",
         "endBorderColor": "greenBtnBorder"
       }
-    }
+    },
+    "MenuItem.acceleratorForeground": "muted",
+    "Label.disabledForeground": "faint",
+    "Group.separatorColor": "base20",
+    "Menu.separatorColor": "base20",
+    "Separator.separatorColor": "base20",
+    "Tree.selectionInactiveBackground": "base20",
+    "Tree.selectionInactiveForeground": "base60",
+    "Tree.foreground": "base60",
+    "NotificationsToolwindow.newNotification.background": "base20",
+    "NotificationsToolwindow.newNotification.hoverBackground": "base30",
+    "Component.disabledBorderColor": "borderMuted",
+    "TabbedPane.contentAreaColor": "borderMuted",
+    "MenuItem.acceleratorSelectionForeground": "base50"
   }
 }
