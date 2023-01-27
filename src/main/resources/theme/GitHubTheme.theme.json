@@ -26,7 +26,7 @@
       "background": "base00",
       "foreground": "base60",
       "rowHeight": "24",
-      "borderColor": "border",
+      "borderColor": "border"
     },
     "Borders.color": "borderMuted",
     "Tree.border": "4,12,4,12",
@@ -35,22 +35,44 @@
       "underlineHeight": "2",
       "underlineColor": "#f78166"
     },
-    "ActionButton.hoverBorderColor": "hover",
+    "ActionButton" : {
+      "hoverBorderColor": "hover",
+      "hoverBackground": "hover",
+      "pressedBackground": "base30",
+      "pressedBorderColor": "base30"
+    },
     "MainToolbar.Icon.hoverBackground": "hover",
     "MainToolbar.Icon.pressedBackground": "base30",
-    "ActionButton.hoverBackground": "hover",
     "MainToolbar.Dropdown.hoverBackground": "hover",
     "PackageSearch.PackageTag.hoverBackground": "hover",
     "PackageSearch.SearchResult.hoverBackground": "hover",
     "PackageSearch.SearchResult.PackageTag.hoverBackground": "hover",
     "StatusBar.hoverBackground": "hover",
     "StatusBar.Widget.hoverBackground": "hover",
+    "ToolWindow.Header.inactiveBackground": "base00",
+    "ToolWindow.HeaderTab.selectedInactiveBackground": "base30",
     "RunWidget": {
       "background": "greenBtn",
       "foreground": "base100",
       "hoverBackground": "greenBtnHover",
       "runningBackground": "greenBtnHover",
       "pressedBackground": "#196c2e"
+    },
+    "Button": {
+      "foreground": "base60",
+      "startBackground": "base20",
+      "endBackground": "base20",
+      "startBorderColor": "border",
+      "endBorderColor": "border",
+      "disabledBorderColor": "borderMuted",
+      "shadowWidth": 0,
+      "default": {
+        "foreground": "base100",
+        "startBackground": "greenBtn",
+        "endBackground": "greenBtn",
+        "startBorderColor": "greenBtnBorder",
+        "endBorderColor": "greenBtnBorder"
+      }
     }
   }
 }
