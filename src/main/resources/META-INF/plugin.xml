@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.github.krios2146.intellijthemegithub</id>
     <name>GitHub Theme</name>
-    <vendor>krios2146</vendor>
+    <vendor>Vladimir Kidyaev</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
