@@ -295,8 +295,8 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="f85149" />
-        <option name="ERROR_STRIPE_COLOR" value="f85149" />
+        <option name="BACKGROUND" value="4d1f22" />
+        <option name="ERROR_STRIPE_COLOR" value="c44039" />
       </value>
     </option>
     <option name="DIFF_DELETED">
@@ -307,13 +307,13 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="2ea043" />
-        <option name="ERROR_STRIPE_COLOR" value="3fb950" />
+        <option name="BACKGROUND" value="12261e" />
+        <option name="ERROR_STRIPE_COLOR" value="2e873a" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="345473" />
+        <option name="BACKGROUND" value="1f364d" />
         <option name="ERROR_STRIPE_COLOR" value="345473" />
       </value>
     </option>
@@ -383,7 +383,7 @@
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="8a939d" />
+        <option name="FOREGROUND" value="c9d1d9" />
         <option name="BACKGROUND" value="d1117" />
       </value>
     </option>
