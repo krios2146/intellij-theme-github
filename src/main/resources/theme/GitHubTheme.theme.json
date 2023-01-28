@@ -35,6 +35,7 @@
       "separatorColor": "base20"
     },
     "Borders.color": "borderMuted",
+    "Borders.ContrastBorderColor": "border",
     "Tree.border": "4,12,4,12",
     "EditorTabs": {
       "tabInsets": "-3,12,-4,8"
