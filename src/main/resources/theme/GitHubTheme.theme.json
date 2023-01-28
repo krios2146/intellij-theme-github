@@ -2,6 +2,7 @@
   "author": "krios2146",
   "name": "GitHub Theme",
   "dark": true,
+  "editorScheme": "/theme/GitHubTheme.xml",
   "colors": {
     "base00": "#0d1117",
     "base10": "#161b22",
@@ -26,11 +27,12 @@
       "background": "base00",
       "foreground": "base60",
       "rowHeight": "24",
-      "borderColor": "border",
+      "borderColor": "borderMuted",
       "selectionBackground": "base30",
       "selectionForeground": "base100",
       "infoForeground": "muted",
-      "disabledText": "faint"
+      "disabledText": "faint",
+      "separatorColor": "base20"
     },
     "Borders.color": "borderMuted",
     "Tree.border": "4,12,4,12",
@@ -78,9 +80,6 @@
     },
     "MenuItem.acceleratorForeground": "muted",
     "Label.disabledForeground": "faint",
-    "Group.separatorColor": "base20",
-    "Menu.separatorColor": "base20",
-    "Separator.separatorColor": "base20",
     "Tree.selectionInactiveBackground": "base20",
     "Tree.selectionInactiveForeground": "base60",
     "Tree.foreground": "base60",
@@ -88,6 +87,9 @@
     "NotificationsToolwindow.newNotification.hoverBackground": "base30",
     "Component.disabledBorderColor": "borderMuted",
     "TabbedPane.contentAreaColor": "borderMuted",
-    "MenuItem.acceleratorSelectionForeground": "base50"
+    "MenuItem.acceleratorSelectionForeground": "base50",
+    "MenuItem.disabledForeground": "faint",
+    "Plugins.lightSelectionBackground": "hover",
+    "Popup.separatorForeground": "base50"
   }
 }
