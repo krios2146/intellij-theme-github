@@ -1,12 +1,14 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.krios2146.intellijthemegithub</id>
-    <name>GitHub Theme</name>
-    <vendor>Vladimir Kidyaev</vendor>
+    <id>com.github.krios2146.intellij-theme-cathub</id>
+    <name>CatHub Theme</name>
+    <version> 0.0.1 </version>
+    <vendor url="https://github.com/krios2146">Vladimir Kidyaev</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.krios2146.intellijthemegithub" path="/theme/GitHubTheme.theme.json"/>
+        <themeProvider id="com.github.krios2146.intellij-theme-cathub" path="/theme/CatHubTheme.theme.json"/>
     </extensions>
+
 </idea-plugin>

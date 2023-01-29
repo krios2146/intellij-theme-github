@@ -1,8 +1,8 @@
 {
   "author": "Vladimir Kidyaev",
-  "name": "GitHub Theme",
+  "name": "CatHub Theme",
   "dark": true,
-  "editorScheme": "/theme/GitHubTheme.xml",
+  "editorScheme": "/theme/CatHubTheme.xml",
   "colors": {
     "base00": "#0d1117",
     "base10": "#161b22",

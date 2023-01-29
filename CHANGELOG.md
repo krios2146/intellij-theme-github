@@ -1,7 +1,7 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# intellij-theme-github Changelog
+# CatHub Theme Changelog
 
-## [Unreleased]
+## [0.0.1] - 29.01.2023
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Initial release
