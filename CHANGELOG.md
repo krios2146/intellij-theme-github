@@ -6,6 +6,15 @@
 ### Added
 - New theme variant
 
+## [1.0.0] - 18.03.2023
+
+### Fixed
+- Version control panel colors
+- Console text background colors
+
+### Added
+- Using Gerry Themes as skeleton for the theme
+
 ## [0.0.1] - 29.01.2023
 ### Added
 - Initial release
