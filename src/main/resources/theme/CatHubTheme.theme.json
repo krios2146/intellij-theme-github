@@ -1287,15 +1287,15 @@
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "bg",
-      "Checkbox.Border.Default.Dark": "accent",
-      "Checkbox.Foreground.Selected.Dark": "accent",
+      "Checkbox.Border.Default.Dark": "border",
+      "Checkbox.Foreground.Selected.Dark": "fg",
       "Checkbox.Background.Selected.Dark": "bg",
       "Checkbox.Focus.Wide.Dark": "accent",
       "Checkbox.Focus.Thin.Default.Dark": "accent",
       "Checkbox.Focus.Thin.Selected.Dark": "accent",
       "Checkbox.Background.Disabled.Dark": "bg",
       "Checkbox.Background.Default": "bg",
-      "Checkbox.Border.Default": "accent"
+      "Checkbox.Border.Default": "border"
     }
   }
 }
