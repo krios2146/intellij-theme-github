@@ -802,10 +802,11 @@
       "selectionForeground": "selFg"
     },
     "RunWidget": {
-      "background": "second",
-      "runningBackground": "second",
-      "foreground": "fg",
-      "separatorColor": "border"
+      "background": "greenBtn",
+      "foreground": "highlightFg",
+      "hoverBackground": "greenBtnHover",
+      "runningBackground": "greenBtnHover",
+      "pressedBackground": "#196c2e"
     },
     "ScreenView.borderColor": "border",
     "SearchEverywhere": {
