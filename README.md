@@ -3,8 +3,8 @@
 ![Screenshot 1](img/screenshot-1.png)
 
 ![Build](https://github.com/krios2146/intellij-theme-github/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/21042.svg)](https://plugins.jetbrains.com/plugin/21042)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/21042.svg)](https://plugins.jetbrains.com/plugin/21042)
 
 ---
 
