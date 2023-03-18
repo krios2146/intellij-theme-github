@@ -145,6 +145,10 @@
     "TextPane.caretForeground": "base60",
     "textText": "base60",
     "TitledBorder.titleColor": "base60",
-    "windowText": "faint"
+    "windowText": "faint",
+    "Focus.color": "base60",
+    "VersionControl.Log.Commit.hoveredBackground": "hover",
+    "VersionControl.Log.Commit.unmatchedForeground": "faint",
+    "VersionControl.Log.Commit.currentBranchBackground": "base10"
   }
 }
