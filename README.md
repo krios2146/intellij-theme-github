@@ -2,9 +2,9 @@
 
 ![Screenshot 1](img/screenshot-1.png)
 
-![Build](https://github.com/krios2146/intellij-theme-github/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/21042.svg)](https://plugins.jetbrains.com/plugin/21042)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/21042.svg)](https://plugins.jetbrains.com/plugin/21042)
+![Build](https://img.shields.io/github/actions/workflow/status/krios2146/intellij-theme-github/build.yml?style=flat-square&logo=github&labelColor=21262d&color=success)
+[![Version](https://img.shields.io/jetbrains/plugin/v/21042?style=flat-square&color=success&labelColor=21262d)](https://plugins.jetbrains.com/plugin/21042)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/21042?style=flat-square&color=success&labelColor=21262d)](https://plugins.jetbrains.com/plugin/21042)
 
 ---
 
