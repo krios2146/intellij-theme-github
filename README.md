@@ -17,23 +17,23 @@ It's a mix of one of the [Gerry Themes](https://plugins.jetbrains.com/plugin/189
 
 Important notes about CatHub Theme:
  - It's very dark and therefore high contrast
- - Mainly focusing on styling new Intellij IDEA UI
- - May contain various bugs, because initially was made for personal use
+ - Mainly focusing on styling new IntelliJ IDEA UI
+ - It may contain various bugs because it initially it was made for personal use
 
 <!-- Plugin description end -->
 
 ### Changes made to the original Gerry Themes
 
-In particular to the `gerryDark.theme.json` file inside of [this repository](https://github.com/gerryhjs/gerry-themes)
+In particular to the `gerryDark.theme.json` file inside [this repository](https://github.com/gerryhjs/gerry-themes)
 
 - Changed the color pallet
-- Changed the checkboxes styling
-- Changed the buttons styling
+- Changed the checkbox styling
+- Changed the button styling
 - Changed the run widget styling
 
 ## Installation
 
-- Using IDE built-in plugin system:
+- Using an IDE built-in plugin system:
   
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "CatHub Theme"</kbd> >
   <kbd>Install Plugin</kbd>
