@@ -1,10 +1,23 @@
-# CatHub Theme
+<h1 align="center">
+		<br>
+		<a href="https://plugins.jetbrains.com/plugin/21042">
+				<img src="https://github.com/krios2146/intellij-theme-github/blob/main/src/main/resources/META-INF/pluginIcon.svg" width="300">
+		</a>
+	<br>
+	CatHub Theme
+</h1>
 
-![Screenshot 1](img/screenshot-1.png)
+<div align="center">
+	<img src="https://img.shields.io/github/actions/workflow/status/krios2146/intellij-theme-github/build.yml?style=for-the-badge&logo=github&labelColor=21262d&color=2ea043">
+	<a href="https://plugins.jetbrains.com/plugin/21042"><img src="https://img.shields.io/jetbrains/plugin/v/21042?style=for-the-badge&color=2ea043&labelColor=21262d"></a>
+	<a href="https://plugins.jetbrains.com/plugin/21042"><img src="https://img.shields.io/jetbrains/plugin/d/21042?style=for-the-badge&color=2ea043&labelColor=21262d"></a>
+</div>
 
-![Build](https://img.shields.io/github/actions/workflow/status/krios2146/intellij-theme-github/build.yml?style=flat-square&logo=github&labelColor=21262d&color=2ea043)
-[![Version](https://img.shields.io/jetbrains/plugin/v/21042?style=flat-square&color=2ea043&labelColor=21262d)](https://plugins.jetbrains.com/plugin/21042)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/21042?style=flat-square&color=2ea043&labelColor=21262d)](https://plugins.jetbrains.com/plugin/21042)
+---
+
+> Default version screenshot
+
+![Screenshot](https://plugins.jetbrains.com/files/21042/screenshot_862a7f71-0164-4d36-923a-729b75764f49)
 
 ---
 
