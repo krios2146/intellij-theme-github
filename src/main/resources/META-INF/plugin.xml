@@ -2,13 +2,15 @@
 <idea-plugin>
     <id>com.github.krios2146.intellij-theme-cathub</id>
     <name>CatHub Theme</name>
-    <version> 0.0.1 </version>
+    <version> 1.1.0 </version>
     <vendor url="https://github.com/krios2146">Vladimir Kidyaev</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.krios2146.intellij-theme-cathub" path="/theme/CatHubTheme.theme.json"/>
+        <themeProvider id="4872850c-66a6-44bb-ac9e-564114987210" path="/theme/CatHubTheme.theme.json"/>
+        <themeProvider id="0a583f9e-2ca0-4cdb-8ee8-7c5bb07ac34d" path="/theme/CatHubPreview.theme.json"/>
+        <themeProvider id="3452220e-9f0e-41cd-b5dd-563330ed2325" path="/theme/CatHubVSCode.theme.json"/>
     </extensions>
 
 </idea-plugin>
