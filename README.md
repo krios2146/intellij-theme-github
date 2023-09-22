@@ -15,10 +15,17 @@
 This theme is my own interpretation of how a GitHub theme should look.  
 It's a mix of one of the [Gerry Themes](https://plugins.jetbrains.com/plugin/18922-gerry-themes) and GitHub colors that I like the most.
 
+Currently, the theme has three different versions:
+- CatHub Preview: mimics GitHub.com file preview colorscheme
+- CatHub VS Code: mimics VSCode GitHub Dark Default theme colorscheme
+- CatHub: my own combination of both from the above
+
 Important notes about CatHub Theme:
  - It's very dark and therefore high contrast
- - Mainly focusing on styling new IntelliJ IDEA UI
+ - Mainly focusing on styling new IntelliJ IDEA UI and Java code
  - It may contain various bugs because it initially it was made for personal use
+ - It's better to use CatHub VS Code variation with the [Rainbow Brackets
+](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) plugin installed
 
 <!-- Plugin description end -->
 
